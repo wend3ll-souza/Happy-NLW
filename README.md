@@ -1,12 +1,12 @@
 # Happy
 
 Esse aplicativo tem o intuito de conectar crianças de orfanatos e possiveis visitantes 
-
+Esse aplicativo foi feito seguindo as instruções do evento Next Level Week da Rockseat
 
 # Aprendizados 
 
 Nesse evento, durante cinco dias pude colocar em pratica meus conhecimentos e aprender conhecimentos novos.
-Pode praticar HTML, CSS e JS na construção do front-end da aplicação e aprendi a usar o node, sql e JS para gerenciar o banco de dados.
+Podendo praticar HTML, CSS e JS na construção do front-end da aplicação e aprendi a usar o node, sql e JS para gerenciar o banco de dados.
 
 
 # Inspiração 
